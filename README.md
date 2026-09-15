@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/IndoKris/Ultimate_CPP/tree/master/1748-sum-of-unique-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
