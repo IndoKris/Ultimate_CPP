@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/IndoKris/Ultimate_CPP/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -44,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -53,4 +56,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
