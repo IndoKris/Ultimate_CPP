@@ -8,6 +8,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/IndoKris/Ultimate_CPP/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -20,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +45,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/IndoKris/Ultimate_CPP/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -64,4 +68,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
