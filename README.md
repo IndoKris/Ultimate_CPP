@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/IndoKris/Ultimate_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/IndoKris/Ultimate_CPP/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
@@ -18,12 +19,14 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/IndoKris/Ultimate_CPP/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/IndoKris/Ultimate_CPP/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/IndoKris/Ultimate_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/IndoKris/Ultimate_CPP/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -33,6 +36,7 @@
 | [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/IndoKris/Ultimate_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -52,6 +56,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/IndoKris/Ultimate_CPP/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
