@@ -42,10 +42,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/IndoKris/Ultimate_CPP/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/IndoKris/Ultimate_CPP/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
