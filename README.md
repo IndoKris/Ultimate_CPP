@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/0344-reverse-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
