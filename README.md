@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/IndoKris/Ultimate_CPP/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/IndoKris/Ultimate_CPP/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/IndoKris/Ultimate_CPP/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/IndoKris/Ultimate_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IndoKris/Ultimate_CPP/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/IndoKris/Ultimate_CPP/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/IndoKris/Ultimate_CPP/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
