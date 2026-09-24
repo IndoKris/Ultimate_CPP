@@ -16,6 +16,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/IndoKris/Ultimate_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/IndoKris/Ultimate_CPP/tree/master/1748-sum-of-unique-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IndoKris/Ultimate_CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0066-plus-one](https://github.com/IndoKris/Ultimate_CPP/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/IndoKris/Ultimate_CPP/tree/master/1486-xor-operation-in-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IndoKris/Ultimate_CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
