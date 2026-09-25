@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IndoKris/Ultimate_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/IndoKris/Ultimate_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/IndoKris/Ultimate_CPP/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IndoKris/Ultimate_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/IndoKris/Ultimate_CPP/tree/master/1748-sum-of-unique-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IndoKris/Ultimate_CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -94,9 +95,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/IndoKris/Ultimate_CPP/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/IndoKris/Ultimate_CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/IndoKris/Ultimate_CPP/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/IndoKris/Ultimate_CPP/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
